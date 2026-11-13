@@ -1,0 +1,29 @@
+{
+ "server": {
+  "file": "fundador.png",
+  "icon_id": 1231120502,
+  "bytes": 12340
+ },
+ "channels": {
+  "6": {
+   "file": "server-admin.png",
+   "icon_id": 1815915519,
+   "bytes": 12814
+  },
+  "7": {
+   "file": "normal.png",
+   "icon_id": 1716962536,
+   "bytes": 9542
+  },
+  "8": {
+   "file": "guest.png",
+   "icon_id": 688237252,
+   "bytes": 10378
+  },
+  "9": {
+   "file": "staff.png",
+   "icon_id": 1103627175,
+   "bytes": 11344
+  }
+ }
+}
